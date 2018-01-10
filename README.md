@@ -1,4 +1,4 @@
-Gamepad Visualizer
+Gamepad Visualizer - NES controller does not work right in Windows.
 
 - Written in Python 3.5.2
 - using pygame 1.9.3
@@ -20,6 +20,8 @@ App allows user to see, on screen, what buttons are being pressed on an NES or N
 
 
 
-Image of both conrollers with buttons pushed:
+GIFs of both conrollers:
 
-![demo](https://user-images.githubusercontent.com/7481680/30662515-5f77efb0-9e15-11e7-8eed-24927edad5fe.png)
+![nes](https://user-images.githubusercontent.com/7481680/34784381-1c9e0460-f5fc-11e7-82f8-9100db86f675.gif)
+
+![n64](https://user-images.githubusercontent.com/7481680/34784416-33225f38-f5fc-11e7-81d7-de40523f037f.gif)
